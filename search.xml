@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>JavaScript笔记</title>
+      <link href="/2022/05/06/javascript-bi-ji/"/>
+      <url>/2022/05/06/javascript-bi-ji/</url>
+      
+        <content type="html"><![CDATA[<ul><li><p>数组去重 </p><p>  ES6 方法  new Set()</p></li><li><p>数组合并</p><p>合并 ：concat（）</p></li><li><p>数组升序</p><p>sort()默认为升序</p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> JavaScript </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>vue中图片引入路径问题</title>
       <link href="/2022/05/01/vue-zhong-tu-pian-yin-ru-lu-jing-wen-ti/"/>
       <url>/2022/05/01/vue-zhong-tu-pian-yin-ru-lu-jing-wen-ti/</url>
